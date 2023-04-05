@@ -11,7 +11,7 @@ export default function Indexpage() {
                 <div className='flex border border-grey-300 rounded-full px-4 py-2 gap-2 shadow-md shadow-gray-300'>
                     <div>Anywhere</div>
                     <div className="border-l boorder-grey-300"></div>
-                    <div>Any time</div>
+                    <div>Any time Door</div>
                     <div className="border-l boorder-grey-300"></div>
                     <div>Add Guests</div>
                     <button className='bg-primary rounded-full p-1 text-white'><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4">
